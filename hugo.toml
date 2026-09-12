@@ -1,0 +1,66 @@
+baseURL = '/'
+languageCode = 'ru-ru'
+title = 'Влияние соцсетей на психику'
+theme = 'PaperMod'
+
+# Пагинация
+[pagination]
+  pagerSize = 10
+
+# Настройки темы PaperMod
+[params]
+  env = 'production'
+  title = 'Влияние соцсетей на психику'
+  description = 'Научно-исследовательский проект о влиянии алгоритмов и социализации на мозг'
+  
+  # Отображение контента
+  showReadingTime = true
+  showShareButtons = false
+  showCodeCopyButtons = true
+  showPostNavLinks = true
+  showBreadCrumbs = true
+
+  # Включаем вывод раздела /facts/ на главной странице
+  mainSections = ["facts"]
+
+  # Главная страница (Hero-блок)
+  [params.homeInfoParams]
+    Title = "Исследовательский проект: факты, механизмы и научные данные" 
+    Content = "Агрегатор научных фактов, психофизиологических исследований и паттернов влияния социальных платформ на ментальное здоровье."
+
+  # Настройки поиска (Fuse.js)
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 100
+    threshold = 0.4
+    minMatchCharLength = 2
+    keys = ["title", "permalink", "summary", "content"]
+
+# Настройка категорий и тегов
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+# Верхнее меню навигации
+[[menu.main]]
+  identifier = 'facts'
+  name = 'Факты'
+  url = '/facts/'
+  weight = 10
+
+[[menu.main]]
+  identifier = 'categories'
+  name = 'Категории'
+  url = '/categories/'
+  weight = 20
+
+[[menu.main]]
+  identifier = 'search'
+  name = 'Поиск'
+  url = '/search/'
+  weight = 30
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

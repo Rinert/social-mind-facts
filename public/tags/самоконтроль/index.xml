@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Самоконтроль on Влияние соцсетей на психику</title>
+    <link>http://localhost:1313/tags/%D1%81%D0%B0%D0%BC%D0%BE%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C/</link>
+    <description>Recent content in Самоконтроль on Влияние соцсетей на психику</description>
+    <generator>Hugo</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%D1%81%D0%B0%D0%BC%D0%BE%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Почему разум не может остановить скроллинг: теория двух систем мозга</title>
+      <link>http://localhost:1313/facts/dual-process-inhibition/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/facts/dual-process-inhibition/</guid>
+      <description>Алгоритмы коротких видео вызывают мощный всплеск эмоций в древних отделах мозга, которые напрямую блокируют центр разума и силы воли.</description>
+    </item>
+  </channel>
+</rss>

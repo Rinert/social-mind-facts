@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Продуктивность on Влияние соцсетей на психику</title>
+    <link>http://localhost:1313/tags/%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</link>
+    <description>Recent content in Продуктивность on Влияние соцсетей на психику</description>
+    <generator>Hugo</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 11 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Как клиповое мышление сократило фокус внимания человека до 47 секунд</title>
+      <link>http://localhost:1313/facts/attention-span-degradation/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/facts/attention-span-degradation/</guid>
+      <description>Масштабное исследование показало, что за 20 лет среднее время концентрации человека на одном экране упало со 150 до 47 секунд.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Facts on Влияние соцсетей на психику</title>
+    <link>http://localhost:1313/facts/</link>
+    <description>Recent content in Facts on Влияние соцсетей на психику</description>
+    <generator>Hugo</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Fri, 07 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/facts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Как зависимость от коротких видео заставляет мозг видеть во всём негатив</title>
+      <link>http://localhost:1313/facts/attentional-bias-negative-stimuli/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/facts/attentional-bias-negative-stimuli/</guid>
+      <description>Переутомление от коротких видео искажает фильтры восприятия: мозг перестает замечать позитив и гиперфиксируется на негативе и угрозах.</description>
+    </item>
+    <item>
+      <title>Почему молчаливый скроллинг ленты развивает социальную тревожность</title>
+      <link>http://localhost:1313/facts/passive-consumption-anxiety/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/facts/passive-consumption-anxiety/</guid>
+      <description>Пассивное наблюдение за чужими видео без активного взаимодействия увеличивает чувство отчуждения и запускает каскад социальной тревожности.</description>
+    </item>
+    <item>
+      <title>Почему лайки действуют на подростков как еда или деньги</title>
+      <link>http://localhost:1313/facts/nacc-likes-response/</link>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/facts/nacc-likes-response/</guid>
+      <description>Количественное социальное одобрение активирует центр удовольствия мозг подростков точно так же, как материальные награды.</description>
+    </item>
+    <item>
+      <title>Как зависимость от коротких видео разрушает когнитивную гибкость</title>
+      <link>http://localhost:1313/facts/sva-executive-deficits/</link>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/facts/sva-executive-deficits/</guid>
+      <description>Систематический обзор исследований подтвердил: постоянный скроллинг ведет к функциональной атрофии систем мозга, отвечающих за удержание и переключение внимания.</description>
+    </item>
+    <item>
+      <title>Почему разум не может остановить скроллинг: теория двух систем мозга</title>
+      <link>http://localhost:1313/facts/dual-process-inhibition/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/facts/dual-process-inhibition/</guid>
+      <description>Алгоритмы коротких видео вызывают мощный всплеск эмоций в древних отделах мозга, которые напрямую блокируют центр разума и силы воли.</description>
+    </item>
+    <item>
+      <title>Почему одни люди зависают в соцсетях часами, а другие нет</title>
+      <link>http://localhost:1313/facts/nacc-reputation-predicts-usage/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/facts/nacc-reputation-predicts-usage/</guid>
+      <description>Разница в реакции мозга на похвалу «себя» и «других» позволяет заранее предсказать, сколько времени человек будет проводить в соцсетях.</description>
+    </item>
+    <item>
+      <title>Как алгоритмы коротких видео вгоняют мозг в транс</title>
+      <link>http://localhost:1313/facts/vta-dmn-activation/</link>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/facts/vta-dmn-activation/</guid>
+      <description>Персонализированная лента заставляет «фабрику дофамина» работать непрерывно, отключая волевой контроль и погружая человека в когнитивный транс.</description>
+    </item>
+    <item>
+      <title>Как клиповое мышление сократило фокус внимания человека до 47 секунд</title>
+      <link>http://localhost:1313/facts/attention-span-degradation/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/facts/attention-span-degradation/</guid>
+      <description>Масштабное исследование показало, что за 20 лет среднее время концентрации человека на одном экране упало со 150 до 47 секунд.</description>
+    </item>
+    <item>
+      <title>Как ограничение соцсетей до 30 минут в день снижает депрессию и одиночество</title>
+      <link>http://localhost:1313/facts/social-media-limitation-depression/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/facts/social-media-limitation-depression/</guid>
+      <description>Эксперимент доказал причинно-следственную связь: сокращение времени в соцсетях до 30 минут в день существенно снижает уровень депрессии и одиночества.</description>
+    </item>
+  </channel>
+</rss>

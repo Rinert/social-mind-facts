@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Репутация on Влияние соцсетей на психику</title>
+    <link>http://localhost:1313/tags/%D1%80%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%86%D0%B8%D1%8F/</link>
+    <description>Recent content in Репутация on Влияние соцсетей на психику</description>
+    <generator>Hugo</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Sun, 08 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%D1%80%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%86%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Почему одни люди зависают в соцсетях часами, а другие нет</title>
+      <link>http://localhost:1313/facts/nacc-reputation-predicts-usage/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/facts/nacc-reputation-predicts-usage/</guid>
+      <description>Разница в реакции мозга на похвалу «себя» и «других» позволяет заранее предсказать, сколько времени человек будет проводить в соцсетях.</description>
+    </item>
+  </channel>
+</rss>

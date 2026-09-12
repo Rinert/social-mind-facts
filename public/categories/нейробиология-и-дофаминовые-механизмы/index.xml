@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Нейробиология И Дофаминовые Механизмы on Влияние соцсетей на психику</title>
+    <link>http://localhost:1313/categories/%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-%D0%B8-%D0%B4%D0%BE%D1%84%D0%B0%D0%BC%D0%B8%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC%D1%8B/</link>
+    <description>Recent content in Нейробиология И Дофаминовые Механизмы on Влияние соцсетей на психику</description>
+    <generator>Hugo</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 06 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-%D0%B8-%D0%B4%D0%BE%D1%84%D0%B0%D0%BC%D0%B8%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC%D1%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Почему лайки действуют на подростков как еда или деньги</title>
+      <link>http://localhost:1313/facts/nacc-likes-response/</link>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/facts/nacc-likes-response/</guid>
+      <description>Количественное социальное одобрение активирует центр удовольствия мозг подростков точно так же, как материальные награды.</description>
+    </item>
+    <item>
+      <title>Почему одни люди зависают в соцсетях часами, а другие нет</title>
+      <link>http://localhost:1313/facts/nacc-reputation-predicts-usage/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/facts/nacc-reputation-predicts-usage/</guid>
+      <description>Разница в реакции мозга на похвалу «себя» и «других» позволяет заранее предсказать, сколько времени человек будет проводить в соцсетях.</description>
+    </item>
+    <item>
+      <title>Как алгоритмы коротких видео вгоняют мозг в транс</title>
+      <link>http://localhost:1313/facts/vta-dmn-activation/</link>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/facts/vta-dmn-activation/</guid>
+      <description>Персонализированная лента заставляет «фабрику дофамина» работать непрерывно, отключая волевой контроль и погружая человека в когнитивный транс.</description>
+    </item>
+  </channel>
+</rss>

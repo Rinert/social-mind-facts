@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Изоляция on Влияние соцсетей на психику</title>
+    <link>http://localhost:1313/tags/%D0%B8%D0%B7%D0%BE%D0%BB%D1%8F%D1%86%D0%B8%D1%8F/</link>
+    <description>Recent content in Изоляция on Влияние соцсетей на психику</description>
+    <generator>Hugo</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Fri, 08 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%D0%B8%D0%B7%D0%BE%D0%BB%D1%8F%D1%86%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Почему молчаливый скроллинг ленты развивает социальную тревожность</title>
+      <link>http://localhost:1313/facts/passive-consumption-anxiety/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/facts/passive-consumption-anxiety/</guid>
+      <description>Пассивное наблюдение за чужими видео без активного взаимодействия увеличивает чувство отчуждения и запускает каскад социальной тревожности.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SVA on Влияние соцсетей на психику</title>
+    <link>http://localhost:1313/tags/sva/</link>
+    <description>Recent content in SVA on Влияние соцсетей на психику</description>
+    <generator>Hugo</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Fri, 07 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sva/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Как зависимость от коротких видео заставляет мозг видеть во всём негатив</title>
+      <link>http://localhost:1313/facts/attentional-bias-negative-stimuli/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/facts/attentional-bias-negative-stimuli/</guid>
+      <description>Переутомление от коротких видео искажает фильтры восприятия: мозг перестает замечать позитив и гиперфиксируется на негативе и угрозах.</description>
+    </item>
+    <item>
+      <title>Как зависимость от коротких видео разрушает когнитивную гибкость</title>
+      <link>http://localhost:1313/facts/sva-executive-deficits/</link>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/facts/sva-executive-deficits/</guid>
+      <description>Систематический обзор исследований подтвердил: постоянный скроллинг ведет к функциональной атрофии систем мозга, отвечающих за удержание и переключение внимания.</description>
+    </item>
+  </channel>
+</rss>

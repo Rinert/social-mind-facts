@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ФМРТ on Влияние соцсетей на психику</title>
+    <link>http://localhost:1313/tags/%D1%84%D0%BC%D1%80%D1%82/</link>
+    <description>Recent content in ФМРТ on Влияние соцсетей на психику</description>
+    <generator>Hugo</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%D1%84%D0%BC%D1%80%D1%82/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Как алгоритмы коротких видео вгоняют мозг в транс</title>
+      <link>http://localhost:1313/facts/vta-dmn-activation/</link>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/facts/vta-dmn-activation/</guid>
+      <description>Персонализированная лента заставляет «фабрику дофамина» работать непрерывно, отключая волевой контроль и погружая человека в когнитивный транс.</description>
+    </item>
+  </channel>
+</rss>
