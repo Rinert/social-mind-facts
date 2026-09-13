@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://Rinert.github.io/social-mind-facts/'
 languageCode = 'ru-ru'
 title = 'Влияние соцсетей на психику'
 theme = 'PaperMod'
