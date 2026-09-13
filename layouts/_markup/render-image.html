@@ -1,0 +1,5 @@
+{{- $url := .Destination }}
+{{- if strings.HasPrefix $url "/" }}
+  {{- $url = urls.JoinPath site.BaseURL (strings.TrimPrefix "/" $url) }}
+{{- end }}
+<img src="{{ $url }}" alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy">
